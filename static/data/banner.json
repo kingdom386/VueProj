@@ -1,0 +1,12 @@
+{
+  "title": "nav",
+  "data": [
+  {
+    "id": 1,
+    "banner": "/static/images/banner_bt.jpg"
+  },
+  {
+    "id": 2,
+    "banner": "/static/images/banner_ft.jpg"
+  }]
+}

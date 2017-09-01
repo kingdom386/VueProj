@@ -1,0 +1,77 @@
+{
+    "proJson": "proshow",
+    "data": [
+        {
+            "id": 1,
+            "proImg": "/static/images/pic01.jpg",
+            "proname": "洛水2017夏季新品大码女装修身韩版蕾丝雪纺连衣裙 白花1746 L",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "上海"
+        },
+        {
+            "id": 2,
+            "proImg": "/static/images/pic02.jpg",
+            "proname": "茵曼（INMAN）2017秋装新款文艺印花喇叭袖气质连衣裙女 1873101029 玫红色 S",
+            "price": "159.00",
+            "stock": "999",
+            "free": 2,
+            "addr": "武汉"
+        },
+        {
+            "id": 3,
+            "proImg": "/static/images/pic03.jpg",
+            "proname": "ONLY2017早秋新品肩章装饰系带收腰假两件连衣裙女|117307583 绿色E56 160/80A/S",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "南京"
+        },
+        {
+            "id": 4,
+            "proImg": "/static/images/pic04.jpg",
+            "proname": "粉红大布娃娃 2017新款秋季女装时尚气质拼色连衣裙秋 黑白色拼色 XL",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "苏州"
+        },
+        {
+            "id": 5,
+            "proImg": "/static/images/pic01.jpg",
+            "proname": "韩都衣舍2017韩版女装夏装新款宽松显瘦短袖两件套连衣裙OY6198陆 浅蓝色 M",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "合肥"
+        },
+        {
+            "id": 6,
+            "proImg": "/static/images/pic02.jpg",
+            "proname": "优依魅性感连衣裙雪纺2017夏装新款大码女装韩版修身打底时尚短袖连衣裙蕾丝731 兰色2 XL",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "上海市"
+        },
+        {
+            "id": 7,
+            "proImg": "/static/images/pic03.jpg",
+            "proname": "ONLY2017早秋新品肩章装饰系带收腰假两件连衣裙女|117307583 绿色E56 160/80A/S",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "杭州"
+        },
+        {
+            "id": 8,
+            "proImg": "/static/images/pic04.jpg",
+            "proname": "粉红大布娃娃 2017新款秋季女装时尚气质拼色连衣裙秋 黑白色拼色 XL",
+            "price": "159.00",
+            "stock": "999",
+            "free": 1,
+            "addr": "无锡"
+        }
+    ]
+}
